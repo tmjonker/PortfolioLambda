@@ -1,0 +1,5 @@
+email_credentials.txt
+sql_credentials.txt
+.idea
+dependency-reduced-pom.xml
+/target
